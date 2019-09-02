@@ -1,8 +1,8 @@
-# CNCF Maintainers Survey 2019 H1
+# CNCF Maintainers Survey 2019 H2
 
 Greetings,
 
-The Cloud Native Computing Foundation (CNCF) is regularly surveying the project maintainers to check levels of satisfaction and how the foundation can help more. This is the regular CNCF Maintainers Survey, H1’2019 edition and should take no more than a few minutes of your time.
+The Cloud Native Computing Foundation (CNCF) is regularly surveying the project maintainers to check levels of satisfaction and how the foundation can help more. This is the regular CNCF Maintainers Survey, H2’2019 edition and should take no more than a few minutes of your time.
 
 1. Name
 
@@ -11,8 +11,7 @@ The Cloud Native Computing Foundation (CNCF) is regularly surveying the project 
 3. Email address *
 
 4. Which CNCF Project are you maintaining?
-
-    * Kubernetes
+   * Kubernetes
 
     * Prometheus
 
@@ -75,6 +74,28 @@ The Cloud Native Computing Foundation (CNCF) is regularly surveying the project 
     * Virtual Kubelet
 
     * etcd
+
+    * KubeEdge
+
+    * Brigade
+    
+    * Network Service Mesh
+    
+    * OpenTelemetry
+
+    * OpenEBS
+    
+    * CRI-O
+
+    * SPIRE
+    
+    * Thanos
+    
+    * Flux
+    
+    * In-Toto
+    
+    * Strimzi
 
 5. What is your feeling with respect to your overall experience with CNCF, where 5 is completely met expectations and 1 - did not meet expectations? *
 
