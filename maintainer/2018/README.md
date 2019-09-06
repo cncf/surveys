@@ -2,41 +2,41 @@
 
 ## 2018 H2 Maintainer Survey Results
 ### Maintainer Satisfaction
-(satisfaction-h2.png)
+!(satisfaction-h2.png)
 
 ### Collaboration
-(collaboration-h2.png)
+!(collaboration-h2.png)
 
 ### Requests
-(requests-h2.png)
+!(requests-h2.png)
 
 ### Efficiency
-(efficiency-h2.png)
+!(efficiency-h2.png)
 
 ###  Conference satisfaction 
-(kubecon-h2.png)
+!(kubecon-h2.png)
 
 ###  Future Assistance 
-(assistance-h2.png)
+!(assistance-h2.png)
 
 See the [data](results-h2.csv).
 
 ## 2018 H1 Maintainer Survey Results
 ###  Maintainer Satisfaction
-(satisfaction-h1.png)
+!(satisfaction-h1.png)
 
 ### Collaboration
-(collaboration-h1.png)
+!(collaboration-h1.png)
 
 ###  Requests
-(requests-h1.png)
+!(requests-h1.png)
 
 ###  Efficiency
-(efficiency-h1.png)
+!(efficiency-h1.png)
 
 ###  Conference satisfaction 
-(kubecon-h1.png)
+!(kubecon-h1.png)
 
 ###  Future Assistance 
-(assistance-h1.png)
+!(assistance-h1.png)
 See the [data](results-h1.csv).
