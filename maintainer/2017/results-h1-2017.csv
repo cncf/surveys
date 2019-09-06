@@ -1,0 +1,36 @@
+Timestamp,,"1. Satisfaction: What is your feeling with respect to your overall experience with CNCF, where 5 is completely met expectations and 1 is did not meet expectations? *",2. Collaboration: Do you feel that CNCF reached out to collaborate and gather info about your project’s needs?,3. Were there explicit requests that you made of CNCF staff that you felt were ignored?,4. Efficiency: Did you feel that the CNCF team responded quickly to your requests? Where 5 is work was completed on time or ahead of schedule and 1 is delayed? ,5. Were you happy with KubeCon + CloudNativeCon in Berlin in March 2017?,6. How can CNCF help you and/or your project in the next 6 months?,"7. Any other feedback that you wish to share, from what CNCF can do more or what we should do less?"
+9/18/2017 18:00:16,,4,Yes,No,3,Didn’t attend but heard it wasn’t good overall,CI,Less marketing. Let the projects breath technically and focus on providing resources.
+9/19/2017 2:30:55,,4,Yes,No,5,Didn’t attend but heard it was good overall,Events (meetups or conferences),.
+9/19/2017 2:35:59,,5,Yes,No,5,Attended and Yes,Documentation,–  
+9/19/2017 14:08:31,,4,Yes,No,4,Didn’t attend but heard it was good overall,All of the above :),None right now
+9/20/2017 14:44:04,,4,Yes,No,5,Didn’t attend but heard it was good overall,Governance,No feedback.
+9/21/2017 12:32:28,,5,Yes,No,5,Didn’t attend but heard it was good overall,Marketing (blog),"Q5 would be better with a ""Don't know"" option. Q6 would be better as multi-choice. The other areas I would pick are Documentation/Training and Events."
+9/21/2017 17:36:46,,3,Yes,No,4,Attended and Yes,recruiting contributors from CNCF members,.
+9/21/2017 19:24:59,,5,Yes,No,5,Attended and Yes,Training Materials,"Happy with CNCF, you are very supportive from all angles. "
+9/22/2017 10:29:08,,4,Yes,No,4,Didn’t attend but heard it was good overall,Documentation,"I appreciate the efforts to help Kubernetes. I am looking forward to:
+* The tech writers promised by other platinum members
+* The metrics dashboard
+* The service desk
+* More budget transparency
+
+One more area to think about, maybe similar to the documentation effort: TPMs. K8s has >200 monthly active contributors. Most of those are full-time. Yet there is no centralized management of any form. It's very hard to organize, and much of the organization is performed by engineers on the project. It's very hard to even keep track of what's going on at this point. We could easily use ~4 TPMs."
+9/22/2017 12:04:01,,5,Yes,No,4,Didn’t attend but heard it was good overall,"several of above: CI, Marketing, Social, Docs maybe",Nope
+9/22/2017 17:12:09,,4,Yes,No,4,Didn’t attend but heard it was good overall,Documentation,"Documentation help would be really welcome. In fact, anything to enable this would be useful.
+- Helping us engage external writers for work.
+- Providing some help around best practices on structuring docs
+- Providing guidelines and any other feedback to help ensure high quality docs. 
+"
+9/22/2017 20:37:55,,5,Yes,No,5,Didn’t attend but heard it was good overall,Marketing (blog),No
+9/23/2017 5:42:56,,4,Yes,No,4,Attended and Yes,Governance,-
+9/26/2017 6:31:45,,4,Yes,No,5,Attended and Yes,Documentation,Keep to make the world happy together :)
+10/19/2017 12:26:16,,5,Yes,No,4,Didn’t attend but heard it was good overall,Documentation,Would be helpful to create explicit opportunities to mix CNCF project maintainers and technology decision-makers at large enterprises
+10/19/2017 12:40:23,,3,Yes,No,3,Attended and Yes,Continuous Integration,Testing linkerd against a variety of kubernetes clusters is becoming challenging.  I'd love it if the CNCF could provide some way for CI'ing things over various k8s environments.
+10/19/2017 16:52:58,,3,Yes,Yes,4,Didn’t attend but heard it was good overall,Continuous Integration,"Still really want a Slack channel w/retention but I don't know how to get one.
+
+Still really want help with integration testing (specifically, access to a free cluster where we can run tests against K8s, Prometheus, etc) but I don't know where to get this.
+
+Still want help with improving documentation but I don't know where to get this.
+"
+10/20/2017 4:22:59,,3,Yes,No,3,Attended and Yes,Continuous Integration,"In general, pushing more for homogeneous governance processes and individual projects transparency."
+10/20/2017 7:40:57,,4,Yes,No,5,Attended and Yes,Documentation,"As discussed, some format adjustments to CloudNativeCon/KubeCon would be good. A more diversified program committee and potentially longer tracks (like the Salons) over which project maintainers can rule freely."
+,,4.105263158,,,,,,
