@@ -12,7 +12,7 @@ TODO
 ![Collaboration](Collaboration-h1.png)
 
 ###  Efficiency
-![Efficiency](efficiency-h1.png)
+![Efficiency](Efficiency-h1.png)
 
 ###  Marketing
 ![Marketing](marketing-h1.png)
@@ -30,10 +30,10 @@ TODO
 ![Documentation](documentation-h1.png)
 
 ### Expectations
-![Expectations](expectations-h1.png)
+![Expectations](Expectations-h1.png)
 
 ### TOC
-![TOC][toc-h1.png]
+![TOC](toc-h1.png)
 
 ### Recommend
 ![Recommend](recommend-h1.png)
