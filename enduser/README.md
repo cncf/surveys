@@ -1,5 +1,5 @@
-Survey results for the [CNCF End User Community](https://www.cncf.io/people/end-user-community/).
+Results from surveying the [CNCF End User Community](https://www.cncf.io/people/end-user-community/).
 
-[2019](/2019)
+Contact: chung@linuxfoundation.org
 
-Contact chung@linuxfoundation.org with any questions.
+### [2019 results](/enduser/2019)
