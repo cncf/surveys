@@ -1,0 +1,110 @@
+CNCF Ambassadors Survey 2019 H1
+
+Q1. Name
+Answered,21
+Skipped,0
+
+
+"Q2. Company (or independent, if applicable)"
+Answered,21
+Skipped,0
+
+
+Q3. Email address
+Answered,21
+Skipped,0
+
+
+Q4. Which CNCF Project are you contributing to/representing?
+Answer Choices,Response Percent,Responses
+Kubernetes,90.48%,19
+Prometheus,14.29%,3
+OpenTracing,4.76%,1
+Fluentd,4.76%,1
+CoreDNS,9.52%,2
+containerd,4.76%,1
+rkt,0.0%,0
+gRPC,0.0%,0
+Linkerd,0.0%,0
+CNI,4.76%,1
+Envoy,0.0%,0
+Jaeger,4.76%,1
+TUF (The Update Framework),4.76%,1
+Notary,4.76%,1
+Rook,4.76%,1
+Vitess,0.0%,0
+NATS,0.0%,0
+SPIFFE,4.76%,1
+SPIRE,4.76%,1
+Open Policy Agent,4.76%,1
+CloudEvents,0.0%,0
+Telepresence,0.0%,0
+Helm,4.76%,1
+Harbor,4.76%,1
+OpenMetrics,4.76%,1
+TiKV,0.0%,0
+Cortex,0.0%,0
+Buildpacks,0.0%,0
+Falco,4.76%,1
+Dragonfly,0.0%,0
+Virtual Kubelet,0.0%,0
+etcd,9.52%,2
+Brigade,0.0%,0
+KubeEdge,4.76%,1
+Other (please specify),9.52%,2
+,Answered,21
+,Skipped,0
+
+
+Q5. Where are you based (part of the world)?
+Answer Choices,Response Percent,Responses
+North America,42.86%,9
+South America,0.0%,0
+Europe,33.33%,7
+Asia,19.05%,4
+Africa,0.0%,0
+Oceania,4.76%,1
+Other:,0.0%,0
+,Answered,21
+,Skipped,0
+
+
+Q6. Are you leading any meetup group (if yes - link your meetup group)?
+Answered,21
+Skipped,0
+
+
+"Q7. What is your feeling with respect to your overall experience with CNCF staff, where 10 is completely met expectations and 1 - did not meet expectations? *"
+Answer Choices,1,2,3,4,5,6,7,8,9,10,Total,Weighted Average
+1,0,0,0,0,0,0,3,7,6,5,21.0,8.62
+,,,,,,,,,,,Answered,21
+,,,,,,,,,,,Skipped,0
+
+
+Q8. Do you feel that CNCF reached out to collaborate and gather info about your needs? *
+Answer Choices,Response Percent,Responses
+Yes,57.14%,12
+No,42.86%,9
+,Answered,21
+,Skipped,0
+
+
+"Q9. Do you have a good understanding of the resources and programs available to you (i.e., CNCF Speakers Bureau, CNCF Swag Store)?"
+Answer Choices,1,2,3,4,5,6,7,8,9,10,Total,Weighted Average
+1,0,0,0,1,1,2,3,4,4,6,21.0,8.1
+,,,,,,,,,,,Answered,21
+,,,,,,,,,,,Skipped,0
+
+
+Q10. Efficiency: Did you feel that the CNCF team responded quickly to your requests? Where 10 is work was completed on time or ahead of schedule and 1 is delayed? *
+Answer Choices,1,2,3,4,5,6,7,8,9,10,Total,Weighted Average
+1,0,0,0,0,0,0,5,2,5,9,21.0,8.86
+,,,,,,,,,,,Answered,21
+,,,,,,,,,,,Skipped,0
+
+
+"Q11. Any other feedback that you wish to share, from what CNCF can do more or what we should do less?"
+Answered,21
+Skipped,0
+
+
