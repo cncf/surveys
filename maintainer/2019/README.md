@@ -2,7 +2,36 @@
 
 ## 2019 H2 Maintainer Survey Results
 
-TODO
+### Collaboration
+![Collaboration](Collaboration-h2.png)
+
+###  Efficiency
+![Efficiency](Efficiency-h2.png)
+
+###  Marketing
+![Marketing](Marketing-h2.png)
+
+###  Security
+![Security](Security-h2.png)
+
+### Project Maintaining
+![Project Maintaining](ProjectMaintaining-h2.png)
+
+### Tooling
+![Tooling](Tooling-h2.png)_
+
+### Documentation
+![Documentation](Documentation-h2.png)
+
+### Expectations
+![Experience](Experience-h1.png)
+
+### Recommend
+![Recommend](Recommend-h2.png)
+
+### [CNCF Maintainer Survey 2019 H2 Results Summary]
+See the [data](maintainer-survey-results-2019-h2.csv). 
+
 
 ## 2019 H1 Maintainer Survey Results
 ###  Maintainer Expectations
