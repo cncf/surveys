@@ -4,7 +4,8 @@ One of CNCF's values are being [open](https://github.com/cncf/foundation/blob/ma
 
 ## Ambassadors
 
-TODO
+* [2019](https://github.com/cncf/surveys/tree/master/ambassador/2019)
+* [2018](https://github.com/cncf/surveys/tree/master/ambassador/2018)
 
 ## End Users
 
@@ -16,6 +17,3 @@ TODO
 * [2018](https://github.com/cncf/surveys/tree/master/maintainer/2018)
 * [2017](https://github.com/cncf/surveys/tree/master/maintainer/2017)
 
-## TOC
-
-* 2019
