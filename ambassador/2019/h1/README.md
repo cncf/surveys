@@ -17,5 +17,5 @@
 ### Response time
 ![Response time](cncf-response-time-h1.png)
 
-### [CNCF Ambassador Survey 2019 H2 Results Summary]
+### [CNCF Ambassador Survey 2019 H1 Results Summary]
 See the [data](CNCF_Ambassadors_Survey_2019_H1.csv). 
