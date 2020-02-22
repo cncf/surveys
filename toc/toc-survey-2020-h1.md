@@ -66,7 +66,7 @@ CNCF TOC takes initiative to encourage diversity
 
 Please add any additional comments: [ text ]
 
-10. Would you like to be more involved in CNCF TOC and SIG work? (Select one)
+11. Would you like to be more involved in CNCF TOC and SIG work? (Select one)
 
 No, I’m not interested
 No, I’m involved enough
@@ -76,9 +76,9 @@ Yes, but I don’t have enough time
 Yes, and I am intending to do so
 
 
-11. In your opinion, is the CNCF missing projects that represent important pieces of the Cloud Native landscape? Please specify: 
+12. In your opinion, is the CNCF missing projects that represent important pieces of the Cloud Native landscape? Please specify: 
 
-12. What would you like the CNCF TOC to do differently, or to provide that currently doesn’t happen?*
+13. What would you like the CNCF TOC to do differently, or to provide that currently doesn’t happen?*
 
-13. Any other feedback that you wish to share, from what CNCF TOC can do more or what we should do less? *
+14. Any other feedback that you wish to share, from what CNCF TOC can do more or what we should do less? *
 
