@@ -4,3 +4,6 @@
 * [2019 Data](Cloud_Native_Survey_2019.csv)
 * [2018](https://www.cncf.io/blog/2018/08/29/cncf-survey-use-of-cloud-native-technologies-in-production-has-grown-over-200-percent/)
 * [2018 Data](Cloud_Native_Survey_2018.csv)
+
+Chinese language survey:
+* [2018](https://www.cncf.io/blog/2018/03/26/cncf-survey-china/)
