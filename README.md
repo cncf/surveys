@@ -4,6 +4,8 @@ One of CNCF's values are being [open](https://github.com/cncf/foundation/blob/ma
 
 ## Cloud Native 
 
+* [2019](https://www.cncf.io/wp-content/uploads/2020/03/CNCF_Survey_Report.pdf)
+* [2018](https://www.cncf.io/blog/2018/08/29/cncf-survey-use-of-cloud-native-technologies-in-production-has-grown-over-200-percent/) 
 * [March 2020 - English](https://www.cncf.io/wp-content/uploads/2020/03/CNCF_Survey_Report.pdf)
 * [March 2018 - China](https://www.cncf.io/blog/2018/03/26/cncf-survey-china/)
 * [August 2018 - English](https://www.cncf.io/blog/2018/08/29/cncf-survey-use-of-cloud-native-technologies-in-production-has-grown-over-200-percent/)
@@ -12,7 +14,6 @@ One of CNCF's values are being [open](https://github.com/cncf/foundation/blob/ma
 * [January 2017 - English](https://www.cncf.io/blog/2017/01/17/container-management-trends-kubernetes-moves-testing-production/)
 * [June 2016 - English](https://medium.com/@brendan.d.burns/container-survey-june-2016-523b255c471c)
 * [March 2016 - English](https://kubernetes.io/blog/2016/04/container-survey-results-march-2016/)
-
 
 ## Ambassadors
 
