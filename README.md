@@ -17,6 +17,7 @@ One of CNCF's values are being [open](https://github.com/cncf/foundation/blob/ma
 
 ## Ambassadors
 
+* [2020](https://github.com/cncf/surveys/tree/master/ambassador/2020)
 * [2019](https://github.com/cncf/surveys/tree/master/ambassador/2019)
 * [2018](https://github.com/cncf/surveys/tree/master/ambassador/2018)
 
