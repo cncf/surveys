@@ -17,5 +17,5 @@
 ### Ambassador Program Satisfaction
 ![Program satisfaction](cncf-ambassadors-satisfaction-h1.png)
 
-### [CNCF Ambassador Survey 2020 H2 Results Summary]
-See the [data](CNCF_Ambassadors_Survey_2020_H2.csv). 
+### [CNCF Ambassador Survey 2020 H1 Results Summary]
+See the [data](CNCF_Ambassadors_Survey_2020_H1.csv). 
