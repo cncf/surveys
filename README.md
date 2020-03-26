@@ -25,8 +25,13 @@ One of CNCF's values are being [open](https://github.com/cncf/foundation/blob/ma
 
 * [2019](https://github.com/cncf/surveys/tree/master/enduser/2019)
 
+## TOC
+
+* [2020](https://github.com/cncf/surveys/tree/master/toc/2020)
+
 ## Maintainers
 
+* [2020](https://github.com/cncf/surveys/tree/master/maintainer/2020)
 * [2019](https://github.com/cncf/surveys/tree/master/maintainer/2019)
 * [2018](https://github.com/cncf/surveys/tree/master/maintainer/2018)
 * [2017](https://github.com/cncf/surveys/tree/master/maintainer/2017)
