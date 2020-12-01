@@ -4,6 +4,7 @@ One of CNCF's values are being [open](https://github.com/cncf/foundation/blob/ma
 
 ## Cloud Native 
 
+* [2020](https://www.cncf.io/wp-content/uploads/2020/11/CNCF_Survey_Report_2020.pdf)
 * [2019](https://www.cncf.io/wp-content/uploads/2020/03/CNCF_Survey_Report.pdf)
 * [2018](https://www.cncf.io/blog/2018/08/29/cncf-survey-use-of-cloud-native-technologies-in-production-has-grown-over-200-percent/) 
 * [March 2020 - English](https://www.cncf.io/wp-content/uploads/2020/03/CNCF_Survey_Report.pdf)
