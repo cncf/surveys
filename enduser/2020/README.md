@@ -1,6 +1,6 @@
 # CNCF End User Community Survey 2020 Results
 
-This survey was conducted with the [CNCF End User Community](https://www.cncf.io/people/end-user-community/) between August 10-21, 2019.
+This survey was conducted with the [CNCF End User Community](https://www.cncf.io/people/end-user-community/) between August 10-21, 2020.
 
 The goal was to look at the programs and ensure they meet the needs of the End User Community for 2021.
 
