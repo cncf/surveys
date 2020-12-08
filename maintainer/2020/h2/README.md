@@ -1,3 +1,3 @@
 # Maintainers Survey 2020 H2
 
-TODO
+![Maintainer Survey Summary](maintainersurvey2020h2.png)
