@@ -5,7 +5,23 @@
 <todo>
 
 ## Anecdotal Feedback 
-<todo>
+Participants pointed out that kubernetes' defaults are "too open", requiring effort and maturity to secure in production. Responses recommended that the cloud native security community should address this in 4 ways:
+
+1) Work on providing production ready receipes like:
+    + Network policies
+    + OPA Gatekeper constraint templates
+
+2) Push for more buttoned-up defaults like:
+    + Disabling auto-mounting service account tokens
+    + Enabling audit logging
+
+3)  Introduce friendlier docs on:
+    + How to increase observability
+    + How to use OPA Gatekeeper
+
+4) New open source tools to:
+    + Identity image vulnerabilities effortlessly (both at runtime and in registry)
+
 
 ## All results
 
