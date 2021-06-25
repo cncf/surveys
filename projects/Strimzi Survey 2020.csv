@@ -1,0 +1,138 @@
+Strimzi Survey 2020
+
+Q1. Are you a Strimzi user (and what version)?
+Answer Choices,Response Percent,Responses
+Not yet,9.76%,4
+"Locally, as a developer",14.63%,6
+"In a shared dev, staging or evaluation environment",51.22%,21
+In production,39.02%,16
+Version Number:,,22.0
+,Answered,41
+,Skipped,0
+
+
+Q2. Which distribution(s) do you run Strimzi on?
+Answer Choices,Response Percent,Responses
+kind,12.5%,4
+microk8s,3.13%,1
+minikube,12.5%,4
+Google Container Engine (GKE),25.0%,8
+Amazon EKS,25.0%,8
+Azure Kubernetes Service (AKS),9.38%,3
+OpenShift,56.25%,18
+Docker Kubernetes Service (DKS),0.0%,0
+Digital Ocean Managed Kubernetes,0.0%,0
+Other:,,11.0
+,Answered,32
+,Skipped,9
+
+
+Q3. Which version of Kubernetes do you run Strimzi on?
+Answered,29
+Skipped,12
+
+
+Q4. How do you install Strimzi?
+Answer Choices,Response Percent,Responses
+YAML files with ‘kubectl apply’,30.77%,12
+Helm3,38.46%,15
+OperatorHub/OLM,25.64%,10
+Other (please specify),17.95%,7
+,Answered,39
+,Skipped,2
+
+
+Q5. Which of the Strimzi resources do you use (tick all that apply + option to explain why they don’t use a component)
+Answer Choices,I manage this myself,Other people in my organization manage this,Not used yet but planned,Not used and not planned,Total,Weighted Average
+Kafka,34,2,1,1,38.0,1.18
+KafkaUser,23,2,8,2,35.0,1.69
+KafkaTopic,31,2,4,1,38.0,1.34
+KafkaConnect,19,1,7,8,35.0,2.11
+KafkaConnectS2I,6,0,5,17,28.0,3.18
+KafkaConnector,15,0,7,9,31.0,2.32
+KafkaBridge,7,0,11,9,27.0,2.81
+KafkaMirrorMaker,5,0,5,17,27.0,3.26
+KafkaMirrorMaker2,11,1,11,7,30.0,2.47
+KafkaRebalance,6,0,15,8,29.0,2.86
+,,,,,Answered,39
+,,,,,Skipped,2
+
+
+Q6. Have you contributed to Strimzi?
+Answer Choices,Response Percent,Responses
+I’m an active contributor,2.56%,1
+"I’d like to contribute code/documentation, (followup: what’s stopping you?)",28.21%,11
+I have contributed code/documentation in the past (followup: how was your experience as a contributor?),10.26%,4
+I’ve reported a bug,17.95%,7
+I’ve requested a feature,28.21%,11
+I’ve not needed to,41.03%,16
+Follow up questions:,,5.0
+,Answered,39
+,Skipped,2
+
+
+Q7. Have you tried or needed to build Strimzi for yourself?
+Answer Choices,Response Percent,Responses
+No,72.5%,29
+"Yes, in order to build it myself without modification",5.0%,2
+"Yes, in order to build custom images (e.g. using a different base image)",10.0%,4
+"Yes, in order to develop the code.",12.5%,5
+,Answered,40
+,Skipped,1
+
+
+Q8. What are the top 3 features which you’d like to see in Strimzi?
+Answered,20
+Skipped,21
+
+
+Q9. How do you and how would you like to expose your cluster?
+Answer Choices,Response Percent,Responses
+Internally (plain),27.5%,11
+Internally (TLS),65.0%,26
+Externally using nodeport,7.5%,3
+Externally using loadbalancer,37.5%,15
+Externally using ingress,32.5%,13
+Externally using OpenShift routes,37.5%,15
+,Answered,40
+,Skipped,1
+
+
+Q10. What authentication and authorization do you use / would like to use?
+Answer Choices,Response Percent,Responses
+TLS client authentication,67.57%,25
+SCRAM-SHA,32.43%,12
+Oauth tokens,37.84%,14
+ACL authorization,16.22%,6
+Keycloak authorization,32.43%,12
+Open Policy Agent,18.92%,7
+Kubernetes service accounts,37.84%,14
+LDAP,21.62%,8
+Kerberos,5.41%,2
+SASL PLAIN,8.11%,3
+Other (please specify),5.41%,2
+,Answered,37
+,Skipped,4
+
+
+Q11. Documentation: Rank the following according to how useful you've found them when using Strimzi:
+Answer Choices,1,2,3,4,5,6,7,8,9,10,N/A,Total,Score
+Quickstart,10,4,1,2,3,1,0,1,1,1,6,30.0,7.79
+Overview guide,5,6,4,3,1,2,1,2,1,0,6,31.0,7.4
+Quick Start guide,2,5,7,2,1,2,2,2,0,3,7,33.0,6.46
+Deploying Strimzi guide,2,4,4,5,6,1,3,2,1,0,4,32.0,6.57
+Using Strimzi guide,4,4,3,3,7,2,3,2,1,0,3,32.0,6.66
+Examples,2,1,6,5,2,8,1,0,0,1,4,30.0,6.5
+Metrics dashboards,0,2,0,3,1,5,9,6,1,0,5,32.0,4.67
+Blogs,1,0,1,1,1,4,4,11,2,0,6,31.0,4.16
+Slack channel,1,0,1,1,2,0,1,3,9,3,9,30.0,3.38
+Mailing lists,0,0,0,1,0,0,0,2,3,12,13,31.0,1.72
+,,,,,,,,,,,,Answered,36
+,,,,,,,,,,,,Skipped,5
+
+
+Q12. Which area of Strimzi do you think most needs more/better documentation: 
+Answered,20
+Skipped,21
+
+
