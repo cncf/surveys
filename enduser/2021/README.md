@@ -4,8 +4,6 @@ This survey was conducted with the [CNCF End User Community](https://www.cncf.io
 
 The goal was to look at the programs and ensure they meet the needs of the End User Community for 2022.
 
-The results is available in [PDF](enduser_survey_2021.pdf).
-
 # Summary
 
 
