@@ -13,8 +13,8 @@ The results are also [available on Google Slides](https://docs.google.com/presen
 ## Takeaways and action items
 
 - The Pandemic has contributed to more participant in activities virtually
-- Member Organizations want to increase Open Source Contributions with Guidance from the CNCF
-- Member Organizations see sharing & learning from peers as the most valuable part of their membership and would like to get more opportunities to do so.
+- End User Organizations want to increase Open Source Contributions with Guidance from the CNCF
+- End User Organizations see sharing & learning from peers as the most valuable part of their membership and would like to get more opportunities to do so.
 
 ## All Results
 
