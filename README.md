@@ -26,6 +26,7 @@ One of CNCF's values are being [open](https://github.com/cncf/foundation/blob/ma
 
 * [2019](https://github.com/cncf/surveys/tree/master/enduser/2019)
 * [2020](https://github.com/cncf/surveys/tree/master/enduser/2020)
+* [2021](https://github.com/cncf/surveys/tree/master/enduser/2021)
 
 ## Security
 * [2021](https://github.com/cncf/surveys/tree/master/security)
