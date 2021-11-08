@@ -5,7 +5,7 @@ repository:
   name: surveys 
 
   # A short description of the repository that will show up on GitHub
-  📝📊CNCF Survey Data
+  description: 📝📊CNCF Survey Data
 
   # A URL with more information about the repository
   homepage: https://cncf.io/
