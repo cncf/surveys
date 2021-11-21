@@ -18,28 +18,28 @@ One of CNCF's values are being [open](https://github.com/cncf/foundation/blob/ma
 
 ## Ambassadors
 
-* [2021](https://github.com/cncf/surveys/tree/master/ambassador/2021)
-* [2020](https://github.com/cncf/surveys/tree/master/ambassador/2020)
-* [2019](https://github.com/cncf/surveys/tree/master/ambassador/2019)
-* [2018](https://github.com/cncf/surveys/tree/master/ambassador/2018)
+* [2021](https://github.com/cncf/surveys/tree/main/ambassador/2021)
+* [2020](https://github.com/cncf/surveys/tree/main/ambassador/2020)
+* [2019](https://github.com/cncf/surveys/tree/main/ambassador/2019)
+* [2018](https://github.com/cncf/surveys/tree/main/ambassador/2018)
 
 ## End Users
 
-* [2019](https://github.com/cncf/surveys/tree/master/enduser/2019)
-* [2020](https://github.com/cncf/surveys/tree/master/enduser/2020)
-* [2021](https://github.com/cncf/surveys/tree/master/enduser/2021)
+* [2019](https://github.com/cncf/surveys/tree/main/enduser/2019)
+* [2020](https://github.com/cncf/surveys/tree/main/enduser/2020)
+* [2021](https://github.com/cncf/surveys/tree/main/enduser/2021)
 
 ## Security
-* [2021](https://github.com/cncf/surveys/tree/master/security)
+* [2021](https://github.com/cncf/surveys/tree/main/security)
 
 ## TOC
 
-* [2020](https://github.com/cncf/surveys/tree/master/toc/2020)
+* [2020](https://github.com/cncf/surveys/tree/main/toc/2020)
 
 ## Maintainers
 
-* [2021](https://github.com/cncf/surveys/tree/master/maintainer/2021)
-* [2020](https://github.com/cncf/surveys/tree/master/maintainer/2020)
-* [2019](https://github.com/cncf/surveys/tree/master/maintainer/2019)
-* [2018](https://github.com/cncf/surveys/tree/master/maintainer/2018)
-* [2017](https://github.com/cncf/surveys/tree/master/maintainer/2017)
+* [2021](https://github.com/cncf/surveys/tree/main/maintainer/2021)
+* [2020](https://github.com/cncf/surveys/tree/main/maintainer/2020)
+* [2019](https://github.com/cncf/surveys/tree/main/maintainer/2019)
+* [2018](https://github.com/cncf/surveys/tree/main/maintainer/2018)
+* [2017](https://github.com/cncf/surveys/tree/main/maintainer/2017)
