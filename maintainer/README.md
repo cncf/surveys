@@ -1,6 +1,6 @@
-# This is a collection of the CNCF's maintainer surveys. 
+# Collection of the CNCF's Maintainer Surveys
 
-## Averafe data (per year)
+## Average data
 
 |         | Satisfaction (avg., in %) | Response time (avg. in %) |
 |---------|---------------------------|---------------------------|
