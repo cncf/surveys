@@ -2,7 +2,7 @@
 
 One of CNCF's values are being [open](https://github.com/cncf/foundation/blob/master/charter.md#3-values) and transparent. We take a data driven approach to serving our communities. We have open sourced routine survey data from our various constituencies to ensure we are always meeting their needs and improving over time.
 
-## Cloud Native 
+## Cloud Native
 
 * [2020](https://www.cncf.io/wp-content/uploads/2020/11/CNCF_Survey_Report_2020.pdf)
 * [2019](https://www.cncf.io/wp-content/uploads/2020/03/CNCF_Survey_Report.pdf)
@@ -25,11 +25,13 @@ One of CNCF's values are being [open](https://github.com/cncf/foundation/blob/ma
 
 ## End Users
 
-* [2019](https://github.com/cncf/surveys/tree/main/enduser/2019)
-* [2020](https://github.com/cncf/surveys/tree/main/enduser/2020)
+* [2022](https://github.com/cncf/surveys/tree/main/enduser/2022)
 * [2021](https://github.com/cncf/surveys/tree/main/enduser/2021)
+* [2020](https://github.com/cncf/surveys/tree/main/enduser/2020)
+* [2019](https://github.com/cncf/surveys/tree/main/enduser/2019)
 
 ## Security
+
 * [2021](https://github.com/cncf/surveys/tree/main/security)
 
 ## TOC
