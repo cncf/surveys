@@ -6,15 +6,15 @@ The goal was to look at the programs and ensure they meet the needs of the End U
 
 The results are also [available on Google Slides](https://docs.google.com/presentation/d/1gwbwvhRK1eIcK99km94S_ry09llCERXLfMBbPHTpE7A/edit?usp=sharing)
 
-# Results
+## End User Community Survey
 
 ![End User Community Survey Results](images/02.jpg)
 
-## Takeaways and action items
+### Takeaways and action items
 
 ![End User Community Survey takeaways and action items](images/03.jpg)
 
-## All Results
+### Results
 
 ![Which CNCF end user activities or programs do you or your organization participate in?](images/05.jpg)
 
