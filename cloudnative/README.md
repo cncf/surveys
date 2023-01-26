@@ -1,5 +1,6 @@
 # Cloud Native Survey
 
+* 2022 [Data user guide](2022 CNCF Cloud Native Survey - Guide to Using the CSV Files and Data.pdf), [Data](2022 CNCF Survey - Raw Data.csv)
 * 2021 Data: [part 1](Cloud_Native_Survey_2021-Part_1.xlsx), [part 2](Cloud_Native_Survey_2021-Part_2.xlsx)
 * [2020](https://www.cncf.io/wp-content/uploads/2020/11/CNCF_Survey_Report_2020.pdf)
 * [2020 Data](Cloud_Native_Survey_1H_2020.csv)
